@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "text": "kylian mbappe",
+      "edad": "25",
+      "lesion": "muscular",
+      "temporada": "5",
+      "equipo": "Real Madrid",
+      "img-equipo": {},
+      "id": 1
+    },
+    {
+      "text": "jefferson soteldo",
+      "edad": "26",
+      "lesion": "muscular",
+      "temporada": "2",
+      "equipo": "Real Madrid",
+      "img-equipo": {},
+      "id": 2
+    },
+    {
+      "nombre": "djsafnjkdsan",
+      "edad": "33",
+      "lesion": "sjdlnfkajn",
+      "temporada": "jlasnajnsd",
+      "equipo": "jnldaskajsnd",
+      "img-equipo": {},
+      "id": 3
+    }
+  ]
+}
